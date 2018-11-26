@@ -1,0 +1,35 @@
+
+img1: a[href='http://automationpractice.com/index.php?id_product=1&controller=product']
+img2: a[href='http://automationpractice.com/index.php?controller=cart&add=1&id_product=1&token=e817bb0705dd58da8db074c69f729fd8'
+botao_checkout: a[class='btn.btn-default.button.button-medium']
+botao_checkout_1: 'button.btn.btn-default.standard-checkout.button-medium'
+email: '#email_create'
+botao_criar: '#SubmitCreate'
+sexo: '#id_gender'
+nome: '#customer_firstname'
+sobrenome: '#customer_lastname'
+senha: '#passwd'
+
+
+##Endereco###
+empresa: '#company'
+endereço: '#address1'
+cidade: '#city'
+estado: '#id_state'
+cep: '#postcode'
+telefone_celular: '#phone_mobile'
+endereco_recado: '#alias'
+botao_registro: '#submitAccount'
+
+##Endereco2""
+botao_fazer_checkout: '.button.btn.btn-default.button-medium'
+
+
+
+checkout_final: '.button.btn.btn-default.standard-checkout.button-medium'
+termo_serviço: '#cgv'
+valida_valor: '#total_price'
+metodo_pagamento: '.bankwire'
+
+confirmar_pedido: '.button.btn.btn-default.button-medium'
+compra_finalizada: '.cheque-indent'
